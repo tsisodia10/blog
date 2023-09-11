@@ -10,3 +10,27 @@
 [submodule "themes/tail-bliss"]
 	path = themes/tail-bliss
 	url = https://github.com/nusserstudios/tailbliss.git
+[submodule "themes/eureka"]
+	path = themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "themes/chringel"]
+	path = themes/chringel
+	url = https://github.com/chringel21/chringel-hugo-theme.git
+[submodule "themes/gruvboxWq"]
+	path = themes/gruvboxWq
+	url = https://github.com/schnerring/hugo-theme-gruvbox.git
+[submodule "themes/doks"]
+	path = themes/doks
+	url = https://github.com/h-enk/doks.git
+[submodule "themes/hello"]
+	path = themes/hello
+	url = https://github.com/4s3ti/hugo-theme-hello-4s3ti.git
+[submodule "themes/class"]
+	path = themes/class
+	url = https://gitlab.com/Kaligule/classless-blog.git
+[submodule "themes/anake"]
+	path = themes/anake
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt.git
