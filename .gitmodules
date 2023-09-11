@@ -1,0 +1,12 @@
+[submodule "hugo-PaperMod"]
+	path = hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/paperMod"]
+	path = themes/paperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/tail-bliss"]
+	path = themes/tail-bliss
+	url = https://github.com/nusserstudios/tailbliss.git
