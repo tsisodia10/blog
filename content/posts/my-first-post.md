@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Meet Twinkll"
 date: 2023-09-11T10:02:44-04:00
 draft: false
 thumbnail: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kalacademy.org%2F&psig=AOvVaw2Tusv4afqgAE_pnaRz4FI9&ust=1694014039367000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCMDQu53kk4EDFQAAAAAdAAAAABAS
